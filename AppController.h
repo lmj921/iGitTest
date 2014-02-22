@@ -18,6 +18,8 @@
     int dd;
     
     int ee;
+    
+    bool haha;
 }
 
 @property (nonatomic, retain) UIWindow *window;
