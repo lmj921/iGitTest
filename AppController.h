@@ -12,6 +12,10 @@
 @interface AppController : NSObject <UIAccelerometerDelegate, UIAlertViewDelegate, UITextFieldDelegate,UIApplicationDelegate,WXApiDelegate> {
     UIWindow *window;
     RootViewController    *viewController;
+    int aa;
+    int bb;
+    int cc;
+    int dd;
 }
 
 @property (nonatomic, retain) UIWindow *window;
