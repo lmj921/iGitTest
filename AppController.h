@@ -24,6 +24,9 @@
 
 @property (nonatomic, retain) UIWindow *window;
 @property (nonatomic, retain) RootViewController *viewController;
+@property (nonatomic, retain) UIWindow *window2;
+@property (nonatomic, retain) UIWindow *window3;
+@property (nonatomic, retain) UIWindow *window4;
 
 @end
 
